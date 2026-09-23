@@ -1,0 +1,2 @@
+# ghostty
+My ghostty configuration
