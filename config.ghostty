@@ -9,3 +9,4 @@ cursor-style-blink = true
 cursor-click-to-move = true
 notify-on-command-finish = unfocused
 window-theme = dark
+title = "👻️ ghostty"
