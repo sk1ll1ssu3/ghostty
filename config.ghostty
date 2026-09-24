@@ -1,8 +1,6 @@
 font-family = "JetBrainsMono Nerd Font"
 font-size = 13
 theme = "Catppuccin Mocha"
-background-image = "~/Pictures/ghostty_wallpaper.png"
-background-image-fit = "cover"
 shell-integration-features = "no-cursor"
 cursor-style = "block"
 cursor-style-blink = true
