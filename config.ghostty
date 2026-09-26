@@ -11,4 +11,3 @@ title = "ghostty 👻️"
 mouse-hide-while-typing = true
 background-opacity = 0.88
 background-blur = true
-background-opacity-cells = true
